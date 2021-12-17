@@ -4,3 +4,7 @@ div{
 	word-spacing: 2%;
 	border-bottom: 3,3px;
 }
+
+.test{
+	column-span: 2;
+}
