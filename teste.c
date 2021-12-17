@@ -3,8 +3,7 @@
 
 int main(void){
     printf("test nr- %d", myTestFunc());
-
     return 0;
-}
+}	
 
 
