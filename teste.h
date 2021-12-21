@@ -3,4 +3,5 @@
 
 int myTestFunc(void);
 int testRandomLoop();
+
 #endif // TESTE_H_
